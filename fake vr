@@ -1,15 +1,3 @@
--- VR - FE FULL-BODY VR SCRIPT
-
--- April 21st Update - TOOL HOLDING ADDED
-
--- | 
--- | 
-
-
---RagDollEnabled is set to true, DON'T set it to false or VR won't work. Feel free to change the other settings though. 
-
-
---|| Settings:
 local StudsOffset = 0 -- Character height (negative if you're too high)
 local Smoothness = .5 -- Character interpolation (0.1 - 1 = smooth - rigid)
 local AnchorCharacter = true -- Prevent physics from causing inconsistencies
